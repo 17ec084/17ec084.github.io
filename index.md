@@ -45,5 +45,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 -->
 
 # 参考
-http://atmarksharp.v01.jp/posts/github-static-site-generators.html
+http://atmarksharp.v01.jp/posts/github-static-site-generators.html  
 https://qiita.com/BigSea/items/21f8c3348f911c0f9be3
